@@ -1,0 +1,7 @@
+package MUD
+
+import io.StdIn.readLine
+
+object Main extends App {
+  Room.rooms foreach println
+}

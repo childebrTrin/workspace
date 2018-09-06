@@ -1,0 +1,26 @@
+5
+0
+Throne Room
+The room is decrepit. The tile floors are cracked and moss grows near puddles formed by the rainwater dripping from the ceiling. An old throne sits vacant at the head of the room, facing the abandoned hall.
+Exits: 1, 2, 3, 4
+Items: crown
+1
+Royal Chamber
+Nearly everything of value has been taken by the former hosts or burgled. The covers on the bed have been torn off of the damp mattress and every drawer and cupboard hangs open.
+Exits: 3
+Items: sheets
+2
+Great Hall
+The hallway blends directly into the throne room. Faded silhouettes mark where portraits used to hang.
+Exits: 0
+Items: None
+3
+Drawing Room
+You can only walk so far into the room. Most of the floor has collapsed into lower levels, wood, stone, and broken furniture scattered below. You consider whether to jump down, but decide against it.
+Exits: 2
+Items: wooden debris, stone debris
+4
+Rooftops
+You manage to clamber up the rugged stone wall through a hole in the ceiling. Now on the roof, you can see the water from the rainfall forming puddles and streams that drip onto the room below. The sky is still cloudy from the storm. It's getting dark out.
+Exits: 5
+Items: None

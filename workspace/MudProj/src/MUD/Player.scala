@@ -1,0 +1,5 @@
+package MUD
+
+class Player {
+  
+}
